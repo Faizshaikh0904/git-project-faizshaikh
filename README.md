@@ -11,3 +11,7 @@ I am a student at uGSOT, currently learning Git and GitHub.
 ## Projects
 - kuch bhi: kuch bhi is very nice
 - diwali: diwali is a festival of lights
+
+## Social Links
+- GitHub: github.com
+- LinkedIn: linkedin.com
