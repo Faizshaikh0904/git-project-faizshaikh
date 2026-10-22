@@ -11,3 +11,6 @@ I am a student at uGSOT, currently learning Git and GitHub.
 ## Projects
 - kuch bhi: kuch bhi is very nice
 - diwali: diwali is a festival of lights
+
+## Contact 
+- Email: mahammadfaiz.shaikh07@gmail.com
