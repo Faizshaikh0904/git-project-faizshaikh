@@ -14,3 +14,7 @@ I am a student at uGSOT, currently learning Git and GitHub.
 
 ## Contact 
 - Email: mahammadfaiz.shaikh07@gmail.com
+
+## Hobbies
+- Reading
+- watching Movies
